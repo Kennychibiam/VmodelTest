@@ -1,3 +1,3 @@
 
 
-<img src="assets/screenshots/screenshot1.jpg" width="400" height="600"/>
+<img src="assets/screenshots/screenshot1.jpg" width="380" height="600"/>
